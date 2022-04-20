@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wangAlpha/wangAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,8 @@ Here are some ideas to get you started:
 🎓 Second-year master student at [Southwest University](https://www.swu.edu.cn/)
 
 💻 Interested in consensus algorithm, distributed storage system and distributed transaction.
+
+⚡ Hobbies for marathons, hiking, Japanese and movies
 
 📫 Email: [wangAlpha@outlook.com](mailto:wangAlpha.com)
 
