@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 
 #### 🌱 Check out my recent projects
 
-- [mit 6.824](https://github.com/wangAlpha/raftkv)
-- [miniftp](https://github.com/wangAlpha/miniftp)
-- [cmu 445](https://github.com/wangAlpha/bustub)
-- [leetcode](https://github.com/wangAlpha/leetcode)
+- [mit 6.824](https://github.com/wangAlpha/raftkv) - 4 labs &#43; 2 challenges
+- [miniftp](https://github.com/wangAlpha/miniftp) - A multi-threaded asynchronous FTP server
+- [cmu 445](https://github.com/wangAlpha/bustub) - CMU 445 database course project
+- [leetcode](https://github.com/wangAlpha/leetcode) - Daily algorithm and data structure training
+
 
 #### 🔨 Check out my projects in undergraduate degree
 
- - [Smart_Car](https://github.com/wangAlpha/Smart_Car)
- - [SimpleDB](https://github.com/wangAlpha/SimpleDB)
+ - [Smart_Car](https://github.com/wangAlpha/Smart_Car) - The control code of the smart car competition participated
+ - [SimpleDB](https://github.com/wangAlpha/SimpleDB) - A bson based database service project
