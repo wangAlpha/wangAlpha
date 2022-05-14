@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi 👋 , I'm Liwang, here are some facts about me.
 
 🎓 Second-year master student at [Southwest University](https://www.swu.edu.cn/)
 
@@ -28,8 +29,12 @@ Here are some ideas to get you started:
 - [cmu 445](https://github.com/wangAlpha/bustub) - CMU 445 database course project
 - [leetcode](https://github.com/wangAlpha/leetcode) - Daily algorithm and data structure practice
 
-
 #### 🔨 Check out my projects in undergraduate degree
 
- - [Smart_Car](https://github.com/wangAlpha/Smart_Car) - The control code of the smart car competition participated
+ - [SmartCar](https://github.com/wangAlpha/SmartCar) - The control code of the smart car competition participated
  - [SimpleDB](https://github.com/wangAlpha/SimpleDB) - A bson database server project base asio library
+
+### ⚡ Recently read open source code
+
+- [libgo](https://github.com/wangAlpha/libgo) - A non-invasive golang-style concurrent library
+- [muduo](https://github.com/wangAlpha/muduo) - A C++-based implementation of the Reactor network library
