@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi 👋 , I'm Liwang, here are some facts about me.
+## Fancy seeing you here! 👋 
 
 🎓 Second-year master student at [Southwest University](https://www.swu.edu.cn/)
 
