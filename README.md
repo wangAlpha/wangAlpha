@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 #### 🔨 Check out my projects in undergraduate degree
 
  - [SmartCar](https://github.com/wangAlpha/SmartCar) - The control code of the smart car competition participated
- - [SimpleDB](https://github.com/wangAlpha/SimpleDB) - A bson database server project base asio library
+ - [SimpleDB](https://github.com/wangAlpha/SimpleDB) - A bson database server project based asio library
 
 ### ⚡ Recently read open source code
 
