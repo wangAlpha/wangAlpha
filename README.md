@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  - [SmartCar](https://github.com/wangAlpha/SmartCar) - The control code of the smart car competition participated
  - [SimpleDB](https://github.com/wangAlpha/SimpleDB) - A bson database server project based asio library
 
-### ⚡ Recently read open source code
+#### ⚡ Recently read open source projects
 
 - [libgo](https://github.com/wangAlpha/libgo) - A non-invasive golang-style concurrent library
 - [muduo](https://github.com/wangAlpha/muduo) - A C++-based implementation of the Reactor network library
