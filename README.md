@@ -3,14 +3,6 @@
 
 Here are some ideas to get you started:
 
-```md
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,mysql,cpp,py,rust,go" />
-  </a>
-</p>
-```
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Fancy seeing you here! 👋 
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,redis,cpp,python,go,rust)](https://skillicons.dev)
 
 🎓 Second-year master student at [Southwest University](https://www.swu.edu.cn/)
 
