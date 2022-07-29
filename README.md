@@ -2,7 +2,13 @@
 **wangAlpha/wangAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![My Skills](https://skillicons.dev/icons?i=Linux,C++,Python,Rust,Golang)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,mysql,cpp,py,rust,go" />
+  </a>
+</p>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
