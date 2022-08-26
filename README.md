@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ⚡ Hobbies for marathons, hiking, Japanese and movies
 
-📫 Email: [wangAlpha@outlook.com](mailto:wangAlpha.com)
+📫 Email: [wzAlpha@outlook.com](mailto:wzAlpha.com)
 
 #### 🌱 Check out my recent projects
 
