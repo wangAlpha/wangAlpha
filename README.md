@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Fancy seeing you here! 👋 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,mysql,redis,cpp,go,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql,redis,cpp,go,rust)](https://skillicons.dev)
 
 🎓 Second-year master student at [Southwest University](https://www.swu.edu.cn/)
 
