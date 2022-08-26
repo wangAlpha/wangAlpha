@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql,redis,cpp,go,rust)](https://skillicons.dev)
 
+[![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangAlpha&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 🎓 Second-year master student at [Southwest University](https://www.swu.edu.cn/)
 
 💻 Interested in consensus algorithm, distributed storage system and distributed transaction.
