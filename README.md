@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,mysql,redis,docker,cpp,rust,go)](https://skillicons.dev)
 
-🎓 Third-year master student at [Southwest University](https://www.swu.edu.cn/)
+- 🔭 I’m currently working on [transwarp](www.transwarp.com)
 
 💻 Interested in consensus algorithm, distributed storage system and distributed transaction.
 
